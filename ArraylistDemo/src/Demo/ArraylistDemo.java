@@ -9,5 +9,6 @@ public class ArraylistDemo {
 		list.add(12);
 		list.add(23);
 		System.out.println(list);
+		System.out.println("gi");
 	}
 }
